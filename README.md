@@ -31,20 +31,16 @@ Available categories: food, clothes, entertainment, other.
 Then you will be asked to specify purchase name, price and quantity.
 
 ### Getting purchases list
-To get purchases list type:<br/>
-`get CATEGORY`<br/>
+To get purchases list type: `get CATEGORY`<br/>
 Available categories: all, food, clothes, entertainment, other.
-Additionally you can specify time scope and sorting of given purchases.
-Correct order of adding more options is:<br/>
-`get CATEGORY TIME SORT`<br/>
+Additionally you can specify time scope and sorting of given purchases.<br/>
+Correct order of adding more options is: `get CATEGORY TIME SORT`<br/>
 Available time scopes: last-week, month, year.
 Available sort types: oldest, recent, cheapest, expensive.
 
 ### Budget
-In order to add money to your budget type:<br/>
-`add balance AMOUNT`<br/>
-To get current balance type:<br/>
-`get balance`
+In order to add money to your budget type: `add balance AMOUNT`<br/>
+To get current balance type: `get balance`
 
 ### Other
 `help`   - shows this message<br/>
