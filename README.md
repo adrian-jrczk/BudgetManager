@@ -27,12 +27,12 @@ To use this program open it with console and type instructions.
 ### Adding purchase
 To add purchase type: `add CATEGORY`<br/>
 Available categories: food, clothes, entertainment, other.
-Then you will be asked to specify purchase name, price and quantity.
+Then you will be asked to specify purchase name, price, quantity and date.
 
 ### Getting purchases list
 To get purchases list type: `get CATEGORY`<br/>
 Available categories: all, food, clothes, entertainment, other.
-Additionally you can specify time scope and sorting of given purchases.<br/>
+Additionally you can specify time scope and/or sorting of given purchases.<br/>
 Correct order of adding more options is: `get CATEGORY TIME SORT`<br/>
 Available time scopes: last-week, month, year.
 Available sort types: oldest, recent, cheapest, expensive.
@@ -42,7 +42,7 @@ In order to add money to your budget type: `add balance AMOUNT`<br/>
 To get current balance type: `get balance`
 
 ### Other
-`help`   - shows this message<br/>
+`help`   - shows help message<br/>
 `exit`   - closes program 
 
 ## Installation
