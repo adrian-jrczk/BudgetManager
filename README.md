@@ -25,8 +25,7 @@ With different filtering and ordering options, it allows you to have a detailed 
 To use this program open it with console and type instructions.
 
 ### Adding purchase
-To add purchase type:<br/>
-`add CATEGORY`<br/>
+To add purchase type: `add CATEGORY`<br/>
 Available categories: food, clothes, entertainment, other.
 Then you will be asked to specify purchase name, price and quantity.
 
